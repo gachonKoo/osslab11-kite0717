@@ -1,5 +1,5 @@
 import math
-def pythagoras(a,b):
+def pythagorass(a,b):
     c=math.sqrt(a**2 + b**2)
     return c
 
